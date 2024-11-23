@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Daniel de Souza Sanches!
 
 Welcome to my GitHub profile! Here's a bit about me:
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🔭 I’m currently working on: **[Your Current Project/Job]**
 - 🌱 I’m learning: **[New Skills/Technologies]**
 - 💡 Ask me about: **[Your Expertise/Interests]**
-- 🌍 I’m based in: **[Location]**
+- 🌍 I’m based in: **Brazil**
 - ✨ Fun fact: **[A Fun Personal Detail]**
 
 ## 🚀 My Skills
