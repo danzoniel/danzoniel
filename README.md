@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🌟 About Me
-- 🔭 I’m currently working on: **[Your Current Project/Job]**
-- 🌱 I’m learning: **[New Skills/Technologies]**
-- 💡 Ask me about: **[Your Expertise/Interests]**
+- 🔭 I’m currently working on: **Blockchain integrations and enabling solutions for decentralized systems**
+- 🌱 I’m learning: **Docker, AI for flood monitoring, and DeFi platforms**
+- 💡 Ask me about: **Blockchain, Microservices, AWS, and Distributed Systems**
 - 🌍 I’m based in: **Brazil**
-- ✨ Fun fact: **[A Fun Personal Detail]**
+- ✨ Fun fact: **I’m working on a 2D game about Blockchain!**
 
 ## 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzoniel&show_icons=true&theme=radical)
