@@ -13,13 +13,25 @@ Welcome to my GitHub profile! Here's a bit about me:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzoniel&show_icons=true&theme=radical)
 
 ## 🚀 My Skills
-- **Languages**: [e.g., Python, JavaScript, Golang, etc.]
-- **Technologies**: [e.g., Docker, Kubernetes, AWS, etc.]
-- **Tools**: [e.g., VSCode, Git, etc.]
+
+### Languages
+- Go, Java, C#, Python, JavaScript, TypeScript
+
+### Frontend Technologies
+- Angular, HTML5
+
+### Backend Technologies
+- AWS, Docker
+
+### Databases & Tools
+- MySQL, DynamoDB, Redis
+
+### Other Tools & Technologies
+- Git, GitHub, GoLand, VSCode, Figma
 
 ## 🌐 Let's Connect
 - LinkedIn: [Your LinkedIn](www.linkedin.com/in/daniel-de-souza-sanches-3b4551142)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzoniel)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danzoniel)
+
+
 
