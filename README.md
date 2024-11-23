@@ -29,3 +29,8 @@ Here are some projects I've been working on:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![AWS](https://img.shields.io/badge/AWS-Expert-orange)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername)
+
+![Welcome Banner](https://your-image-link.com/banner.png)
