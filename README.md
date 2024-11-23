@@ -27,3 +27,5 @@ Here are some projects I've been working on:
 - Personal Website: [Your Website](https://yourwebsite.com)
 - Twitter: [Your Twitter](https://twitter.com/yourhandle)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![AWS](https://img.shields.io/badge/AWS-Expert-orange)
