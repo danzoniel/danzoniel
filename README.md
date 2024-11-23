@@ -9,6 +9,9 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🌍 I’m based in: **Brazil**
 - ✨ Fun fact: **[A Fun Personal Detail]**
 
+## 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=danzoniel&show_icons=true&theme=radical)
+
 ## 🚀 My Skills
 - **Languages**: [e.g., Python, JavaScript, Golang, etc.]
 - **Technologies**: [e.g., Docker, Kubernetes, AWS, etc.]
@@ -19,8 +22,7 @@ Here are some projects I've been working on:
 - [Project Name 1](link) - Brief description.
 - [Project Name 2](link) - Brief description.
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 
 ## 🌐 Let's Connect
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
